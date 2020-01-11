@@ -1,7 +1,8 @@
-# springboot-hadmin
+v# springboot-hadmin
 Sparrow微框架之Hadmin
 简介：Hadmin是一个springboot项目，前端页面采用hadmin模板，集成freemarker模板，表格采用bootstraptable，弹出采用layer，验证采用jquery validate
 
+登录地址:http://127.0.0.1:9999/admin/login    admin   111111
 系统管理后台基本框架<br>
         1.springboot<br>
         2.springdata jpa<br>
